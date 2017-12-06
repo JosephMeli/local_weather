@@ -1,7 +1,9 @@
 # Local Weather
 Will display the option to pick a city 
 Then present the user with Weather details on that city 
-
+<center>
+![screenshot of app](/media/local-weather-screenshot.PNG? raw=true)
+</center>
 ## Setup and How to Run
 its and node  based application
 
